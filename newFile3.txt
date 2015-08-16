@@ -1,0 +1,1 @@
+Added third file for understanding git log.
